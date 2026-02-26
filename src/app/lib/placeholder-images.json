@@ -1,0 +1,46 @@
+{
+  "placeholderImages": [
+    {
+      "id": "project-1",
+      "description": "Код Активации — сообщество лидеров",
+      "imageUrl": "/case65.jpeg",
+      "imageHint": "logo design"
+    },
+    {
+      "id": "project-2",
+      "description": "Брендбук точка",
+      "imageUrl": "/case65.jpg",
+      "imageHint": "branding identity"
+    },
+    {
+      "id": "project-3",
+      "description": "3D графика",
+      "imageUrl": "/case67.jpg",
+      "imageHint": "3d render"
+    },
+    {
+      "id": "project-4",
+      "description": "AlmatyGazablock",
+      "imageUrl": "/case68.jpg",
+      "imageHint": "packaging"
+    },
+    {
+      "id": "project-5",
+      "description": "Animation",
+      "imageUrl": "/case70.png",
+      "imageHint": "motion design"
+    },
+    {
+      "id": "project-6",
+      "description": "UI/UX Design",
+      "imageUrl": "/case69.jpg",
+      "imageHint": "web design"
+    },
+    {
+      "id": "profile",
+      "description": "Designer Portrait",
+      "imageUrl": "/ava.jpg",
+      "imageHint": "designer portrait"
+    }
+  ]
+}
